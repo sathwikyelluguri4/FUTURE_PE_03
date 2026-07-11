@@ -1,4 +1,4 @@
----
+
 **SEO Meta Title:** Best Work-Friendly Cafe in Hyderabad | Brew & Beans  
 **SEO Meta Description:** Looking for a work-friendly cafe in Hyderabad? Brew & Beans offers fast WiFi, power outlets, comfortable seating, and great coffee for remote workers and students.  
 **URL Slug:** `/work-friendly-cafe-hyderabad`  
