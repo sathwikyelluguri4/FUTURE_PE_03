@@ -1,4 +1,3 @@
----
 **SEO Meta Title:** Best Cafe in Hyderabad – Why Brew & Beans Cafe is the Perfect Spot  
 **SEO Meta Description:** Looking for the best cafe in Hyderabad? Brew & Beans Cafe offers specialty coffee, all-day breakfast, cozy ambiance, and work-friendly spaces. Visit us today!  
 **URL Slug:** `/best-cafe-in-hyderabad`  
