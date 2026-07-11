@@ -1,4 +1,4 @@
----
+
 **SEO Meta Title:** Best Cafe for Friends and Family in Hyderabad | Brew & Beans  
 **SEO Meta Description:** Choosing a cafe for your group in Hyderabad? Brew & Beans is family-friendly, spacious, and welcoming for all groups. Discover what makes it perfect for everyone.  
 **URL Slug:** `/best-cafe-for-families-friends-hyderabad`  
