@@ -1,4 +1,4 @@
----
+
 **SEO Meta Title:** Best Coffee Drinks to Try at a Local Cafe | Brew & Beans  
 **SEO Meta Description:** Discover the best coffee drinks to try at a local cafe. From cold brew to pour-over, Brew & Beans Cafe in Hyderabad has them all. Explore the menu!  
 **URL Slug:** `/best-coffee-drinks-local-cafe`  
