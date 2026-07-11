@@ -1,4 +1,4 @@
----
+
 **SEO Meta Title:** Top Breakfast Items at Brew & Beans Cafe Hyderabad | Best Brunch  
 **SEO Meta Description:** Discover the best breakfast cafe in Hyderabad. Brew & Beans serves all-day breakfast including waffles, eggs benedict, and South Indian platters. Visit today!  
 **URL Slug:** `/top-breakfast-items-brew-and-beans-cafe-hyderabad`  
