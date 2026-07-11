@@ -1,4 +1,4 @@
----
+
 **SEO Meta Title:** Why Local Cafes Are Better Than Chain Coffee Shops | Brew & Beans  
 **SEO Meta Description:** Why settle for a chain when local cafes like Brew & Beans in Hyderabad offer better coffee, food, and atmosphere? Here's the real comparison.  
 **URL Slug:** `/local-cafe-vs-chain-coffee-shop`  
